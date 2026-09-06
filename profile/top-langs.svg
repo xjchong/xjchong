@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="77.93"
+          width="77.89"
           height="8"
           fill="#555555"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="77.93"
+          x="77.89"
           y="0"
-          width="74.64"
+          width="74.73"
           height="8"
           fill="#3178c6"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="152.57"
+          x="152.62"
           y="0"
-          width="42.19"
+          width="42.16"
           height="8"
           fill="#A97BFF"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="194.76"
+          x="194.78"
           y="0"
-          width="28.31"
+          width="28.29"
           height="8"
           fill="#e34c26"
         />
@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="223.07"
           y="0"
-          width="15.35"
+          width="15.34"
           height="8"
           fill="#f34b7d"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.42"
+          x="238.41"
           y="0"
           width="11.58"
           height="8"
@@ -191,14 +191,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 31.17%
+        C 31.16%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 29.86%
+        TypeScript 29.89%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
